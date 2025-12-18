@@ -65,15 +65,14 @@ Section 3
 - Storytelling with data
 
 
+i. Dashboard for Overview
+<img width="1311" height="728" alt="image" src="https://github.com/user-attachments/assets/400f4d9b-5a01-4a76-9cfe-e392000e7d9a" />
 
-i. Create relationship
-<img width="1303" height="841" alt="image" src="https://github.com/user-attachments/assets/ef86bb1f-5b6f-48d0-adc9-a5d4d2516a15" />
-
-ii. Dashboard for Overview
-<img width="1443" height="809" alt="image" src="https://github.com/user-attachments/assets/57cb0621-ff35-45f3-9376-e7bac7ff40a5" />
-
-iii. Dashboard for Control Point
+ii. Dashboard for Control Point
 <img width="1445" height="803" alt="image" src="https://github.com/user-attachments/assets/64ec2507-20f1-49d2-9379-a3342582a2f7" />
 
-iv.Dashboard for Visitor Type
+iii.Dashboard for Visitor Type
 <img width="1446" height="810" alt="image" src="https://github.com/user-attachments/assets/b5e5437d-b3dd-474b-8f47-835ecad36dc8" />
+
+iv. Create relationship
+<img width="1303" height="841" alt="image" src="https://github.com/user-attachments/assets/ef86bb1f-5b6f-48d0-adc9-a5d4d2516a15" />
